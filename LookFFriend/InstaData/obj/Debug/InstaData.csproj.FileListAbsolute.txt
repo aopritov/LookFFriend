@@ -1,0 +1,10 @@
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\InstaData\bin\Debug\InstaData.dll.config
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\InstaData\bin\Debug\InstaData.dll
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\InstaData\bin\Debug\InstaData.pdb
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\InstaData\bin\Debug\EntityFramework.dll
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\InstaData\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\InstaData\bin\Debug\EntityFramework.xml
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\InstaData\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\InstaData\obj\Debug\InstaData.dll
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\InstaData\obj\Debug\InstaData.pdb
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\InstaData\obj\Debug\InstaData.csprojResolveAssemblyReference.cache

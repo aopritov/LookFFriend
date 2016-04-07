@@ -1,0 +1,10 @@
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\ConsoleApplication1\bin\Debug\Tools.dll
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\ConsoleApplication1\bin\Debug\Tools.pdb
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\MyInstaProject\InstaSharp-InstaSharp-fa11e15\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
