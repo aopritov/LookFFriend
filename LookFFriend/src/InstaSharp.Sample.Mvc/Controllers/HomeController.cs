@@ -3,9 +3,6 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Threading.Tasks;
 using System.Web.Mvc;
-using InstaData.Enum;
-using InstaData.InstaModels;
-using InstaData.Repository;
 
 namespace InstaSharp.Sample.Mvc.Controllers
 {
@@ -16,20 +13,9 @@ namespace InstaSharp.Sample.Mvc.Controllers
         static string redirectUri = ConfigurationManager.AppSettings["redirectUri"];
 
         InstagramConfig config = new InstagramConfig(clientId, clientSecret, redirectUri, "");
-
-        private IRepository<User> userRepository = null;
-
-        public HomeController()
-        {
-            this.userRepository = new Repository<User>();
-        }
         // GET: Home
         public ActionResult Index()
         {
-            var user = userRepository.GetAll();
-
-            userRepository.Add(new User(){ UserId = 3, Status = CommonStatus.None, Username = "test"});
-
             var oAuthResponse = Session["InstaSharp.AuthInfo"] as OAuthResponse;
 
             if (oAuthResponse == null)

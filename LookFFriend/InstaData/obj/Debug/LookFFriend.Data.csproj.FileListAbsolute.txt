@@ -1,0 +1,10 @@
+C:\MyInstaProject\LookFFriend\InstaData\bin\Debug\InstaData.dll.config
+C:\MyInstaProject\LookFFriend\InstaData\bin\Debug\InstaData.dll
+C:\MyInstaProject\LookFFriend\InstaData\bin\Debug\InstaData.pdb
+C:\MyInstaProject\LookFFriend\InstaData\bin\Debug\EntityFramework.dll
+C:\MyInstaProject\LookFFriend\InstaData\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyInstaProject\LookFFriend\InstaData\bin\Debug\EntityFramework.xml
+C:\MyInstaProject\LookFFriend\InstaData\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyInstaProject\LookFFriend\InstaData\obj\Debug\LookFFriend.Data.csprojResolveAssemblyReference.cache
+C:\MyInstaProject\LookFFriend\InstaData\obj\Debug\InstaData.dll
+C:\MyInstaProject\LookFFriend\InstaData\obj\Debug\InstaData.pdb
